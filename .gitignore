@@ -1,0 +1,13 @@
+# planilhas e logs reais da migracao (tem nomes de pastas e de arquivos do ambiente)
+MATCH_FINAL_OK.csv
+log_migracao.csv
+*.log
+
+# arquivos temporarios da migracao
+MigrationTemp/
+
+# credenciais e certificados
+*.pfx
+*.pem
+*.key
+.env
