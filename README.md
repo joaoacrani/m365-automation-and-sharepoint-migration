@@ -154,3 +154,7 @@ Invoke-Pester .\Testes
 - A validação, a cópia delta e a virada do projeto original foram etapas do processo, **não** estão neste script: ele copia e registra.
 - Metadados (autor, datas de criação e modificação), permissões e versões anteriores dos arquivos não são migrados.
 - O log novo tem cabeçalho; o log antigo (sem cabeçalho) ainda é lido para a retomada.
+
+## Licença
+
+MIT. Veja o arquivo [LICENSE](LICENSE).
