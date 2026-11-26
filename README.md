@@ -1,5 +1,7 @@
 # Automação Microsoft 365 e Migração de SharePoint
 
+[![Testes](https://github.com/joaoacrani/m365-automation-and-sharepoint-migration/actions/workflows/testes.yml/badge.svg)](https://github.com/joaoacrani/m365-automation-and-sharepoint-migration/actions/workflows/testes.yml) ![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft&logoColor=white)
+
 ## Sumário
 
 1. [Objetivo](#1-objetivo)
